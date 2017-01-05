@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void print_hello() {
+void Lib_print_hello() {
   printf("hello\n");
 }
 
-void print_world() {
+void Lib_print_world() {
   printf("world\n");
 }
